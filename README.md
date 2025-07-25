@@ -5,7 +5,8 @@
 This is a daily task manager application project created in flutter. 
 
 ## Screenshots
-![flutter-task-manager](https://user-images.githubusercontent.com/62181222/111222593-3f02b580-8606-11eb-89e1-c5c518f5ad96.jpg)
+<img width="607" height="698" alt="Screenshot 2025-07-25 135728" src="https://github.com/user-attachments/assets/7f4eca2b-24c0-40ea-829c-c12fdb61fb46" />
+
 
 
 ## Getting Started
